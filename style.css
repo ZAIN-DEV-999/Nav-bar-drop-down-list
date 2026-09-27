@@ -42,8 +42,6 @@ body {
 .nav-links a:hover {
     background-color: #444;
 }
-
-/* Dropdown */
 .dropdown-menu {
     display: none;
     position: absolute;
@@ -62,7 +60,6 @@ body {
     padding: 12px;
 }
 
-/* Hover par dropdown show hoga */
 .dropdown:hover .dropdown-menu {
     display: block;
 }
